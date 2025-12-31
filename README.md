@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Mojahid 👋
 
-<!--
-**Mojahid-dev/Mojahid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student and aspiring web developer, currently focused on building strong fundamentals in web development.
 
-Here are some ideas to get you started:
+## About Me
+- Learning HTML, CSS, and JavaScript
+- Building projects as part of the **SIHF Project**
+- Focused on consistency, discipline, and real-world skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Responsive layouts
+- Clean UI with CSS
+- Writing structured, readable code
+
+## Projects
+- Personal Portfolio Website (in progress)
+- Weekly mini-projects to improve fundamentals
+
+## Philosophy
+I believe progress comes from:
+- Showing up daily
+- Building instead of over-planning
+- Learning in public and improving step by step
