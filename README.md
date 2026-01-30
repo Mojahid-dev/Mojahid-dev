@@ -29,10 +29,10 @@ I’m currently seeking **internship or entry-level opportunities** where I can 
 
 ## 🚧 Projects
 
-### 🏋️ Gym Landing Page
+### 🏋️ [Gym Landing Page](https://thegymcode.vercel.app)
 A responsive gym landing page built using HTML, CSS, and basic JavaScript, focusing on layout structure, responsiveness, and clean UI design.
 
-### 🌐 Angstrom Website
+### 🌐 [Angstrom Website](https://angstormclasses.vercel.app)
 A simple, responsive website created using HTML and CSS to practice modern layout techniques and visual hierarchy.
 
 > I prioritize fewer, well-understood projects over many shallow ones.
