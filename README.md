@@ -1,23 +1,59 @@
 # Hi, I’m Mojahid 👋
 
-I’m a student and aspiring web developer, currently focused on building strong fundamentals in web development.
+🎓 Diploma Computer Science Engineering student  
+💻 Aspiring Frontend Web Developer  
+🚀 Focused on building real-world projects and strong fundamentals
 
-## About Me
-- Learning HTML, CSS, and JavaScript
-- Building projects as part of the **SIHF Project**
-- Focused on consistency, discipline, and real-world skills
+---
 
-## Current Focus
-- Responsive layouts
-- Clean UI with CSS
-- Writing structured, readable code
+## 👨‍💻 About Me
 
-## Projects
-- Personal Portfolio Website (in progress)
-- Weekly mini-projects to improve fundamentals
+I’m a Diploma CSE student actively building frontend projects using HTML, CSS, and JavaScript to strengthen my web development fundamentals.  
+I’m currently seeking **internship or entry-level opportunities** where I can learn from real production code and contribute meaningfully.
 
-## Philosophy
-I believe progress comes from:
-- Showing up daily
-- Building instead of over-planning
-- Learning in public and improving step by step
+---
+
+## 🛠️ Technical Skills
+
+**Frontend**
+- HTML5 (semantic markup)
+- CSS3 (Flexbox, responsive layouts)
+- JavaScript (core concepts, DOM basics)
+
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+
+---
+
+## 🚧 Projects
+
+### 🏋️ Gym Landing Page
+A responsive gym landing page built using HTML, CSS, and basic JavaScript, focusing on layout structure, responsiveness, and clean UI design.
+
+### 🌐 Angstrom Website
+A simple, responsive website created using HTML and CSS to practice modern layout techniques and visual hierarchy.
+
+> I prioritize fewer, well-understood projects over many shallow ones.
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening JavaScript fundamentals  
+- Writing clean, readable frontend code  
+- Building small but complete web projects  
+- Preparing for frontend internship roles  
+
+---
+
+## 📫 Contact & Links
+
+- 📧 Email: mdmojahidme74@gmail.com  
+- 🌐 Portfolio: https://mwebservices.vercel.app  
+- 💻 GitHub: https://github.com/Mojahid-dev  
+
+---
+
+⭐ Open to internship opportunities and continuous learning.
