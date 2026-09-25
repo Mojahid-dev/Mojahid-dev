@@ -1,100 +1,198 @@
 <div align="center">
 
 <!-- Animated header. Change the text, colors, or remove this image to use your own banner. -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101827,45:1d4ed8,100:06b6d4&text=MOJAHID&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=BUILDING%20IDEAS%20INTO%20REALITY&descSize=16&descAlignY=59&animation=fadeIn&section=header" alt="Animated blue gradient banner reading Mojahid — building ideas into reality" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:101827,45:1d4ed8,100:06b6d4&text=MOJAHID&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality" alt="Mojahid Banner" />
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mojahid+%F0%9F%91%8B;Developer+%7C+Builder+%7C+Lifelong+Learner;Turning+curiosity+into+projects" alt="Typing animation: Hi, I'm Mojahid; Developer, Builder, Lifelong Learner; Turning curiosity into projects" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Problem+Solver;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 
 <br />
 
 [![GitHub followers](https://img.shields.io/github/followers/Mojahid-dev?style=for-the-badge&logo=github&label=FOLLOW&color=161b22)](https://github.com/Mojahid-dev?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=Mojahid-dev&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)](https://github.com/Mojahid-dev)
-[![GitHub stars](https://img.shields.io/github/stars/Mojahid-dev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=REPO%20STARS&color=0891b2)](https://github.com/Mojahid-dev?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/Mojahid-dev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=REPO%20STARS&color=0891b2)](https://github.com/Mojahid-dev)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mojahid-dev&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Mojahid-dev)
 
 </div>
 
-## About me
+---
 
-I'm a developer who learns by building. I enjoy turning ideas into useful projects, exploring how things work, and improving a little with every build.
+## 👨‍💻 About Me
 
-- **Currently building:** Student focused AI workspace called **Zohra**
-- **Currently learning:** JavaScript, TypeScript, C, C++, Python, React, Next.js, and DSA
-- **I enjoy:** creative problem-solving, clean design, and making useful things
-- **Open to:** good ideas, collaboration, and connecting with fellow developers
-- **Contact:** [Email](mailto:mojahid.dev.sihf@example.com) · [LinkedIn](https://www.linkedin.com/in/Mojahid-dev/)
+I'm a passionate **Full Stack Developer** who believes in learning by building. I thrive on turning innovative ideas into practical solutions while continuously exploring new technologies and best practices.
 
-## Things I've built
+### 🎯 What I Do
+- **Currently Building:** 🚀 **Zohra** - An AI-powered workspace designed for student collaboration and productivity
+- **Currently Learning:** JavaScript, TypeScript, C, C++, Python, React, Next.js, Node.js, and DSA
+- **Passionate About:** Creative problem-solving, clean code architecture, UI/UX design, and scalable applications
+- **Interests:** Full-stack development, AI/ML integration, open-source contribution, and mentoring
+- **Open To:** Collaboration, innovative projects, and connecting with the developer community
 
-<!-- Replace these cards with real repositories and a one-line description of each. -->
+### 📫 How to Reach Me
+- **Email:** [mojahid.dev.sihf@gmail.com](mailto:mojahid.dev.sihf@gmail.com)
+- **LinkedIn:** [@Mojahid-dev](https://www.linkedin.com/in/Mojahid-dev/)
+- **Twitter/X:** [@Mojahid_dev](https://twitter.com/Mojahid_dev)
+
+---
+
+## 🎨 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Mojahid-dev/Minorproject"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mojahid-dev&repo=Minorproject&theme=tokyonight&hide_border=true" alt="Featured repository one" /></a>
-  <a href="https://github.com/Mojahid-dev/website-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mojahid-dev&repo=website-&theme=tokyonight&hide_border=true" alt="Featured repository two" /></a>
+  <a href="https://github.com/Mojahid-dev/Minorproject"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mojahid-dev&repo=Minorproject&theme=tokyonight&hide_border=true" alt="Minorproject" /></a>
+  <a href="https://github.com/Mojahid-dev/website-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mojahid-dev&repo=website-&theme=tokyonight&hide_border=true" alt="Website" /></a>
 </div>
-
-<!-- Delete the cards above until you have chosen projects, or replace the placeholder repo names. -->
-
-## My GitHub at a glance
-
-<div align="center">
-
-<a href="https://github.com/Mojahid-dev"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Mojahid-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Mojahid's GitHub stats" /></a>
-<a href="https://github.com/Mojahid-dev"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojahid-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Languages in Mojahid's public repositories" /></a>
 
 <br />
 
-<a href="https://github.com/Mojahid-dev"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mojahid-dev&theme=tokyonight&hide_border=true" alt="Mojahid's GitHub contribution streak" /></a>
+### 🌟 Recent Highlights
+- **Zohra:** AI-powered student workspace with real-time collaboration
+- **Minorproject:** [Add project description here]
+- **Website:** [Add project description here]
 
-</div>
+> *Explore more projects in my [repositories](https://github.com/Mojahid-dev?tab=repositories)*
 
-## Contribution graph
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- Animated snake needs a GitHub Actions workflow. Setup guide: https://github.com/Platane/snk#-usage -->
+<a href="https://github.com/Mojahid-dev"><img height="175" src="https://github-readme-stats.vercel.app/api?username=Mojahid-dev&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" /></a>
+<a href="https://github.com/Mojahid-dev"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojahid-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top Languages" /></a>
+
+<br />
+
+<a href="https://github.com/Mojahid-dev"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mojahid-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
+<br />
+
+<a href="https://github.com/Mojahid-dev"><img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mojahid-dev&theme=tokyonight" alt="Profile Details" /></a>
+
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+<!-- Animated snake showing contribution activity -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mojahid-dev/Mojahid-dev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mojahid-dev/Mojahid-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake moving through Mojahid's contribution graph" src="https://raw.githubusercontent.com/Mojahid-dev/Mojahid-dev/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Mojahid-dev/Mojahid-dev/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
 
-<!-- To activate the contribution snake, add the Platane/snk GitHub Actions workflow to this profile repo. -->
+---
 
-## What I'm learning
+## 💻 Tech Stack & Skills
 
+### Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css" alt="Languages" />
+</div>
+
+### Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" alt="Frontend" />
+</div>
+
+### Backend & Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend" />
+</div>
+
+### Tools & Platforms
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Tools" />
+</div>
+
+### Currently Mastering
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python,nextjs,react&perline=7&theme=dark" alt="JavaScript, TypeScript, C++, C, Python, Next.js, and React logos" />
-
-<br />
-
-<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white" alt="Learning Data Structures and Algorithms" />
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white)
+![Advanced JavaScript](https://img.shields.io/badge/Advanced%20JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![System Design](https://img.shields.io/badge/System%20Design-Architecture-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
-<p align="center"><sub>Learning these technologies and building projects to put them into practice.</sub></p>
+---
 
-## Outside the editor
+## 📈 Activity & Achievements
 
-[Add a hobby or personal detail here] — a small detail makes a profile easier to remember.
+### 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mojahid-dev&theme=tokyonight&no-frame=false&row=1&column=6" alt="Achievements" />
+</div>
 
-## Let's connect
+### 📝 Latest Activity
+- 🔨 Working on Zohra AI workspace
+- 📚 Mastering Data Structures & Algorithms
+- 🤝 Open to collaboration and contributions
+- 💡 Sharing knowledge through code
+
+---
+
+## 🎓 Education & Learning
+
+- **Currently Learning:** Full-stack web development with modern frameworks
+- **Focus Areas:** 
+  - Advanced JavaScript/TypeScript
+  - System design and architecture
+  - AI/ML integration
+  - DevOps and deployment strategies
+  - Clean code practices
+
+---
+
+## 🌍 Beyond the Code
+
+- 🎮 **Gaming:** Strategy and puzzle games
+- 📖 **Reading:** Tech blogs and development articles
+- 🎵 **Music:** Lo-fi beats while coding
+- ☕ **Coffee:** Lots of it during debugging sessions
+
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mojahid--dev-181717?style=for-the-badge&logo=github)](https://github.com/Mojahid-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mojahid--dev-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Mojahid-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojahid.dev.sihf@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=globe)](https://your-portfolio.com)
 
 <br />
 
-<sub>Thanks for visiting. Keep building, keep curious.</sub>
+**Have an interesting project or collaboration opportunity?** [Let's talk!](mailto:mojahid.dev.sihf@gmail.com)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🏅 Believer in the power of consistent learning and growth
+- 🎯 Always looking for the next challenging problem to solve
+- 🌱 Passionate about mentoring junior developers
+- 🚀 Excited about emerging technologies and innovation
+
+---
+
+<div align="center">
+
+<sub>⭐ If you find my work interesting, consider giving my repositories a star! It means a lot.</sub>
 
 <br />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1d4ed8,100:101827&height=100&section=footer" alt="Blue gradient footer wave" />
+
+<sub>Thanks for visiting! Keep building, keep learning, keep pushing boundaries.</sub>
+
+<br /><br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1d4ed8,100:101827&height=100&section=footer" alt="Footer Wave" />
 
 </div>
