@@ -47,8 +47,7 @@ I'm a passionate **Full Stack Developer** who believes in learning by building. 
 
 ### 🌟 Recent Highlights
 - **Zohra:** AI-powered student workspace with real-time collaboration
-- **Minorproject:** [Add project description here]
-- **Website:** [Add project description here]
+- **Minorproject:** Zohra - An AI-powered collaborative workspace platform built with Next.js, designed to enhance student productivity and team collaboration. Features modern UI components, real-time capabilities, PostgreSQL database integration, and seamless authentication.
 
 > *Explore more projects in my [repositories](https://github.com/Mojahid-dev?tab=repositories)*
 
@@ -102,12 +101,12 @@ I'm a passionate **Full Stack Developer** who believes in learning by building. 
 
 ### Backend & Databases
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,neon,postgresql" alt="Backend" />
 </div>
 
 ### Tools & Platforms
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,codex,claude" alt="Tools" />
 </div>
 
 ### Currently Mastering
@@ -131,6 +130,7 @@ I'm a passionate **Full Stack Developer** who believes in learning by building. 
 ### 📝 Latest Activity
 - 🔨 Working on Zohra AI workspace
 - 📚 Mastering Data Structures & Algorithms
+- 📚 Learning C++ for DSA 
 - 🤝 Open to collaboration and contributions
 - 💡 Sharing knowledge through code
 
@@ -152,7 +152,7 @@ I'm a passionate **Full Stack Developer** who believes in learning by building. 
 
 - 🎮 **Gaming:** Strategy and puzzle games
 - 📖 **Reading:** Tech blogs and development articles
-- 🎵 **Music:** Lo-fi beats while coding
+- 📔 **Knowledge** Love to collect knowledge from different fields and understand it.
 - ☕ **Coffee:** Lots of it during debugging sessions
 
 ---
@@ -178,7 +178,7 @@ I'm a passionate **Full Stack Developer** who believes in learning by building. 
 
 - 🏅 Believer in the power of consistent learning and growth
 - 🎯 Always looking for the next challenging problem to solve
-- 🌱 Passionate about mentoring junior developers
+- 🌱 Passionate about solving problems which eventually helps people in any way.
 - 🚀 Excited about emerging technologies and innovation
 
 ---
